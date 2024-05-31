@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Shrestha01.github.io/project1",
+  "homepage": "https://Shrestha01.github.io/project1.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
