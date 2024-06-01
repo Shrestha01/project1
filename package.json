@@ -4,8 +4,6 @@
   "private": true,
   "homepage": "https://Shrestha01.github.io/project1",
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
     "vite": "^5.2.12"
   },
   "devDependencies": {
